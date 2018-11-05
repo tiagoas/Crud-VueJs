@@ -1,0 +1,34 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "titulo": "Tarefa 1",
+      "descricao": "Descrição da tarefa 1",
+      "terminada": false
+    },
+    {
+      "id": 1,
+      "titulo": "Tarefa 2",
+      "descricao": "Descrição da tarefa 2",
+      "terminada": false
+    },
+    {
+      "id": 1,
+      "titulo": "Tarefa 3",
+      "descricao": "Descrição da tarefa 3",
+      "terminada": false
+    }
+  ],
+  "usuario": [
+    {
+      "id": 1,
+      "nome": "Fulano",
+      "email": "fulano@mail.com"
+    },
+    {
+      "id": 2,
+      "nome": "Beltrano",
+      "email": "beltrano@mail.com"
+    }
+  ]
+}
